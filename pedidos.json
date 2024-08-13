@@ -93,5 +93,16 @@
             }
         ],
         "estado": "creado"
+    },
+    {
+        "cliente": "jaime",
+        "items": [
+            {
+                "categoria": "plato_fuerte",
+                "nombre": "Hamburguesa",
+                "precio": 28000
+            }
+        ],
+        "estado": "pagado"
     }
 ]
