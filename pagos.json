@@ -1,0 +1,17 @@
+[
+    {
+        "cliente": "Juan Perez",
+        "total": 47000,
+        "fecha_pago": "2024-06-15 12:34:56"
+    },
+    {
+        "cliente": "Maria Lopez",
+        "total": 38000,
+        "fecha_pago": "2024-06-16 14:20:30"
+    },
+    {
+        "cliente": "Ana Martinez",
+        "total": 38500,
+        "fecha_pago": "2024-06-17 16:45:10"
+    }
+]

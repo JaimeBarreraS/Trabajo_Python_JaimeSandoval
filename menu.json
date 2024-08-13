@@ -1,0 +1,67 @@
+[
+    {
+        "categoria": "entrada",
+        "nombre": "Empanadas Mini",
+        "precio": 9000
+    },
+    {
+        "categoria": "entrada",
+        "nombre": "Papas Fritas",
+        "precio": 5000
+    },
+    {
+        "categoria": "entrada",
+        "nombre": "Dedos de Queso",
+        "precio": 11000
+    },
+    {
+        "categoria": "entrada",
+        "nombre": "Tostada Francesa",
+        "precio": 10000
+    },
+    {
+        "categoria": "plato_fuerte",
+        "nombre": "Pasta Bolognesa",
+        "precio": 35000
+    },
+    {
+        "categoria": "plato_fuerte",
+        "nombre": "Hamburguesa",
+        "precio": 28000
+    },
+    {
+        "categoria": "plato_fuerte",
+        "nombre": "Pollo al Curry",
+        "precio": 30000
+    },
+    {
+        "categoria": "plato_fuerte",
+        "nombre": "Lechona",
+        "precio": 25000
+    },
+    {
+        "categoria": "plato_fuerte",
+        "nombre": "Arroz al Wok",
+        "precio": 20000
+    },
+    {
+        "categoria": "bebida",
+        "nombre": "Coca-Cola",
+        "precio": 3000
+    },
+    {
+        "categoria": "bebida",
+        "nombre": "Jugo Natural",
+        "precio": 5000
+    },
+    {
+        "categoria": "bebida",
+        "nombre": "Vino",
+        "precio": 8000
+    },
+    {
+        "categoria": "bebida",
+        "nombre": "Cerveza",
+        "precio": 3500
+    }
+]
